@@ -453,6 +453,12 @@ footer {
   background: linear-gradient($theme-primary, $theme-secondary);
 }
 
+.bg-secondary {
+  background: white;
+  background: -webkit-linear-gradient(white, white);
+  background: linear-gradient(white, white);
+}
+
 .text-primary {
   color: $theme-primary;
 }
